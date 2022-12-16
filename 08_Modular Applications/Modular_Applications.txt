@@ -1,0 +1,5 @@
+Modular Applications
+
+• Component Approach;
+• Encapsulating Functionality;
+• Isolating State.
