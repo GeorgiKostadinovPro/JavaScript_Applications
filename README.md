@@ -17,4 +17,5 @@ Topics:
 - Modular Applications
 
 Certificate:
+
 ![JS Applications - October 2022 - Certificate](https://user-images.githubusercontent.com/72508846/209218432-1fa281d2-6d07-4eda-a828-8c6405f7395b.jpeg)
