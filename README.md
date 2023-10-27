@@ -1,7 +1,7 @@
 # SoftUni_JavaScript_Applications - October 2022
 This is a repository where I upload all my exercises, exams and certificates from the JavaScript Applications module in Software University ( Sofia, Bulgaria ).
 
-JavaScript Applications Exam - 300/300 points.
+JavaScript Applications Exam - 115/115 points.
 
 - Topics: All
 
